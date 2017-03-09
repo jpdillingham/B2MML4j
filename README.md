@@ -5,7 +5,7 @@
 
 A Java Package containing an implementation of the MESA International standards B2MML and BatchML.
 
-Generated with the JavaTM Architecture for XML Binding(JAXB) Reference Implementation, v2.2.8-b130911.1802 from the KPI-ML V01 schema
+Generated with the JavaTM Architecture for XML Binding(JAXB) Reference Implementation, v2.2.8-b130911.1802 from the B2MML V0600 schema
 available from the MESA website [here](https://services.mesa.org/ResourceLibrary/ShowResource/0f47758b-60f0-40c6-a71b-fa7b2363fb3a).
 
 # About B2MML
