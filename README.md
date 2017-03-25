@@ -1,5 +1,6 @@
 # B2MML4j
 
+[![Build status](https://ci.appveyor.com/api/projects/status/lsft7p1l5cn0b0hq?svg=true)](https://ci.appveyor.com/project/jpdillingham/b2mml4j)
 [![Build Status](https://travis-ci.org/jpdillingham/B2MML4j.svg?branch=master)](https://travis-ci.org/jpdillingham/B2MML4j)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jpdillingham/B2MML4j/blob/master/LICENSE)
 
